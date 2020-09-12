@@ -40,7 +40,7 @@ You can do wireframing [online](https://wireframe.cc/) or [by hand](./wireframe_
 2. Images - You have been provided with all of the images that you need to create this mockup in the `vssl_mockup/img` folder. Take a look at what you have before you begin.  Think about the relative path for your images when creating them in an `<img>` tag.
 3. Text - Feel free to use `lorem` in place of this real text.  
 
-![vssl](vssl_mockup/mockup.png)
+![vssl](mockup.png)
 
 ## Finished Early?
 
