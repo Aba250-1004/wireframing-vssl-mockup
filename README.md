@@ -6,7 +6,7 @@ Title: Wireframes and HTML Mockup - VSSL<br>
 Type: Morning Exercise <br>
 Duration: "0:45"<br>
 Original creators: WDI-Archer, WDI-Funke, WDI-Panthalassa<br>
-Adapted by: Kristyn Bryan, Cathleen Wright, Jerrica Bobadilla<br>
+Adapted by: Kristyn Bryan, Cathleen Wright, Jerrica Bobadilla, Taylor Darneille<br>
 Competencies: Basic HTML & CSS blocks<br>
 Prerequisites: CSS, HTML <br>
 
@@ -26,9 +26,9 @@ You can do wireframing [online](https://wireframe.cc/) or [by hand](./wireframe_
 
 ## Setup
 
-1. `git pull upstream master` to get this morning' starter code.
-2. Inside your `morning_exercise` folder for today, open the folder called `vssl_mockup` in atom.
-3. Inside the `vssl_mockup` folder, create an `index.html` file.  Make sure to create it on the same level as the `img` folder and `mockup.png`.  
+1. Fork and Clone this repo.
+2. Open the folder called `vssl_mockup` in your text editor.
+3. Inside this folder, create an `index.html` file.  
 4. Add the boilerplate to your html file.
 5. Open `index.html` in your browser.
 
